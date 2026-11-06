@@ -1,0 +1,6 @@
+relation,n_events,day0_bps,day0_t,days_1_to_h_bps,days_1_to_h_t
+customer of shocked co.,213,82.7,7.32,-1.7,-0.06
+supplier to shocked co.,335,84.1,7.57,30.2,1.27
+competitor,335,167.5,10.3,21.5,0.73
+same industry only,335,102.4,8.94,38.0,1.71
+unconnected,452,26.9,5.16,-3.5,-0.29

@@ -1,0 +1,25 @@
+ticker,industry,customers,suppliers,competitors,upstream_importance
+TSM,Semiconductors,7,4,1,0.147
+NVDA,Semiconductors,6,3,2,0.085
+LRCX,Semiconductor Equipment,3,0,2,0.067
+AMAT,Semiconductor Equipment,3,0,2,0.067
+ASML,Semiconductor Equipment,3,0,0,0.067
+KLAC,Semiconductor Equipment,3,0,2,0.067
+ARM,Semiconductors,3,0,0,0.058
+MU,Semiconductors,3,4,0,0.054
+AMD,Semiconductors,3,1,2,0.041
+AVGO,Semiconductors,3,1,1,0.039
+ON,Semiconductors,1,0,2,0.029
+NXPI,Semiconductors,1,0,2,0.029
+QCOM,Semiconductors,1,2,0,0.024
+MRVL,Semiconductors,0,1,1,0.021
+INTC,Semiconductors,0,5,3,0.021
+TXN,Semiconductors,0,0,2,0.021
+AAPL,Consumer Hardware,0,5,0,0.021
+DELL,Servers & Hardware,0,3,1,0.021
+SMCI,Servers & Hardware,0,1,1,0.021
+MSFT,Cloud & Internet,0,2,2,0.021
+GOOGL,Cloud & Internet,0,2,3,0.021
+AMZN,Cloud & Internet,0,1,2,0.021
+META,Cloud & Internet,0,3,1,0.021
+TSLA,Automotive,0,2,0,0.021

@@ -1,0 +1,57 @@
+source,target,relation,note
+TSM,NVDA,supplier,Foundry for GPUs
+TSM,AMD,supplier,Foundry for CPUs/GPUs
+TSM,AAPL,supplier,Foundry for Apple silicon
+TSM,QCOM,supplier,Foundry for Snapdragon
+TSM,AVGO,supplier,Foundry for custom silicon
+TSM,MRVL,supplier,Foundry for data-center chips
+TSM,INTC,supplier,Foundry for some Intel tiles
+ASML,TSM,supplier,Lithography tools
+ASML,INTC,supplier,Lithography tools
+ASML,MU,supplier,Lithography tools
+AMAT,TSM,supplier,Deposition/etch tools
+AMAT,INTC,supplier,Deposition/etch tools
+AMAT,MU,supplier,Deposition/etch tools
+LRCX,TSM,supplier,Etch tools
+LRCX,INTC,supplier,Etch tools
+LRCX,MU,supplier,Etch/memory tools
+KLAC,TSM,supplier,Inspection tools
+KLAC,INTC,supplier,Inspection tools
+KLAC,MU,supplier,Inspection tools
+NVDA,MSFT,supplier,Data-center GPUs
+NVDA,GOOGL,supplier,Data-center GPUs
+NVDA,AMZN,supplier,Data-center GPUs
+NVDA,META,supplier,Data-center GPUs
+NVDA,DELL,supplier,GPUs for AI servers
+NVDA,SMCI,supplier,GPUs for AI servers
+AMD,MSFT,supplier,Data-center GPUs/CPUs
+AMD,META,supplier,Data-center GPUs/CPUs
+AMD,DELL,supplier,Server CPUs
+MU,NVDA,supplier,HBM memory
+MU,DELL,supplier,DRAM/NAND
+MU,AAPL,supplier,DRAM/NAND
+AVGO,AAPL,supplier,Wireless/RF components
+AVGO,GOOGL,supplier,Custom TPU design
+AVGO,META,supplier,Custom accelerator design
+QCOM,AAPL,supplier,Modems
+ARM,AAPL,supplier,Architecture licensing
+ARM,QCOM,supplier,Architecture licensing
+ARM,NVDA,supplier,Architecture licensing
+ON,TSLA,supplier,Power semiconductors
+NXPI,TSLA,supplier,Automotive chips
+NVDA,AMD,competitor,GPUs
+AMD,INTC,competitor,CPUs
+NVDA,INTC,competitor,Accelerators
+TSM,INTC,competitor,Foundry
+AVGO,MRVL,competitor,Custom silicon/networking
+AMAT,LRCX,competitor,Wafer fab equipment
+LRCX,KLAC,competitor,Wafer fab equipment
+AMAT,KLAC,competitor,Wafer fab equipment
+ON,NXPI,competitor,Automotive/industrial chips
+TXN,NXPI,competitor,Analog/embedded
+TXN,ON,competitor,Analog/power
+DELL,SMCI,competitor,AI servers
+MSFT,GOOGL,competitor,Cloud
+MSFT,AMZN,competitor,Cloud
+GOOGL,AMZN,competitor,Cloud
+GOOGL,META,competitor,Digital advertising

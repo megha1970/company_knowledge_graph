@@ -1,0 +1,25 @@
+ticker,name,industry
+NVDA,NVIDIA,Semiconductors
+AMD,Advanced Micro Devices,Semiconductors
+INTC,Intel,Semiconductors
+QCOM,Qualcomm,Semiconductors
+AVGO,Broadcom,Semiconductors
+MU,Micron,Semiconductors
+TXN,Texas Instruments,Semiconductors
+MRVL,Marvell,Semiconductors
+ON,ON Semiconductor,Semiconductors
+NXPI,NXP Semiconductors,Semiconductors
+ARM,Arm Holdings,Semiconductors
+TSM,TSMC,Semiconductors
+ASML,ASML,Semiconductor Equipment
+AMAT,Applied Materials,Semiconductor Equipment
+LRCX,Lam Research,Semiconductor Equipment
+KLAC,KLA,Semiconductor Equipment
+AAPL,Apple,Consumer Hardware
+DELL,Dell,Servers & Hardware
+SMCI,Super Micro Computer,Servers & Hardware
+MSFT,Microsoft,Cloud & Internet
+GOOGL,Alphabet,Cloud & Internet
+AMZN,Amazon,Cloud & Internet
+META,Meta Platforms,Cloud & Internet
+TSLA,Tesla,Automotive
